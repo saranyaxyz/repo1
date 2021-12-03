@@ -1,2 +1,3 @@
-helllooo
-first file here
+<script>
+document.write(4+6)
+</script>
